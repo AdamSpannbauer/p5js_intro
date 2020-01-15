@@ -9,10 +9,16 @@ Update: I read some documentation on the original:
 
 Going to try and make a v2 following the original's outline.
 
-### What I made:
+### What I made (v2; code in [circular_motion](circular_motion) dir):
 
 <p align='center'>
-  <img src='readme/close-ish.gif', width='40%'>
+  <img src='readme/success.gif', width='40%'>
+</p>
+
+### What I made (v1; code in [linear_motion](linear_motion) dir):
+
+<p align='center'>
+  <img src='readme/failure.gif', width='40%'>
 </p>
 
 ### What I wanted to make:
